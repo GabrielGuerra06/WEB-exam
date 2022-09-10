@@ -1,0 +1,90 @@
+*{
+  Margin: 0;
+
+}
+
+body{
+  width: 1440px
+}
+  
+.header-container{
+  background-color:white;
+  height: 450px;
+
+  
+}
+ .top-container{
+  background-color: #F6F6FE;
+  margin-top: 300px;
+  height: 500px;
+  font-family: "Open Sans";
+  
+ }
+
+ .middle-container{
+  background-color:#585989;
+  height: 250px;
+ }
+
+ .bottom-container{
+  background-color: #070439;
+  height: 380px;
+ } 
+
+h1{
+  margin-top: 100px;
+  font-family: "Open Sans";
+  font: bolder;
+  font-weight: bolder;
+  margin-left: 85px;
+  text-align: left;
+
+}
+
+p{
+  font-family: "Open Sans";
+  position: relative;
+  margin-left: 85px;
+}
+
+textarea{
+  margin-top: 2px;
+  font-family: "Open Sans";
+  margin-left: 85px;
+  text-align:justify;
+  font-size:small;
+  float: left;
+}
+
+h2{
+  font-family: "Open Sans";
+  margin-left: 85px;
+  font: bold;
+  font-weight: bolder;
+}
+
+h3{
+  margin-left: 85px;
+  font: bolder;
+  font-weight: bolder;
+  color:white ;
+}
+
+.parrafos{
+  float: right;
+  display: flex;
+  font-family: "Open Sans";
+  color:white ;
+  font-size: 13px;
+}
+
+.logos{
+  float: right;
+  display:inline-flex;
+  font-family: "Open Sans";
+  color:white ;
+  font-size: 13px;
+}
+
+
+
